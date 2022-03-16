@@ -1,0 +1,8 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Utilité}{3}{0}{1}
+\beamer@sectionintoc {2}{Algorithme Naïf}{4}{0}{2}
+\beamer@sectionintoc {3}{KMP}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Exemple simple}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Tableau}{6}{0}{3}
+\beamer@subsectionintoc {3}{3}{Recherche}{8}{0}{3}
+\beamer@subsectionintoc {3}{4}{Automate}{10}{0}{3}
