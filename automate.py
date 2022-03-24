@@ -79,7 +79,6 @@ class Automate: # Automate fini à repli
         def recherche(q, c0):
             for c in range(self.n_alphabet):
                 if t[q, c] > 0:
-                    print("hi", r)
                     rempli_r(q, t[q, c], c0, c)
 
         def rempli_r(q0, q1, c0, c1):
@@ -91,7 +90,6 @@ class Automate: # Automate fini à repli
                 recherche(q1, c1)
                 
         for c in range(self.n_alphabet):
-            print(t[0, c], "hello")
             if t[0, c] > 0:
                 r[t[0, c]] = 0
                 recherche(t[0, c], c)
